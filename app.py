@@ -6,7 +6,7 @@ import seaborn as sns
 # Configuração da página web
 st.set_page_config(page_title="Pipeline de Dados Econômicos", layout="wide")
 
-st.title("📈 Pipeline Universal e Reprodutível de Dados Econômicos")
+st.title("Pipeline Universal e Reprodutível de Dados Econômicos")
 st.markdown("Ferramenta de Ingestão Automatizada e Visualização Dinâmica de Séries Temporais.")
 
 # ---------------------------------------------------------------------
