@@ -51,7 +51,7 @@ if fonte:
         st.success(f"[SUCESSO] {len(df)} registros carregados!")
 
         # Exibir prévia da tabela de dados
-        with st.expander("🔍 Ver Tabela de Dados Brutos"):
+        with st.expander("Ver Tabela de Dados Brutos"):
             st.dataframe(df, use_container_width=True)
 
         # SIDEBAR: CONFIGURAÇÃO DO GRÁFICO
