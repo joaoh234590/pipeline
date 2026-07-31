@@ -92,8 +92,16 @@ gerar_grafico_universal(
 )
 ```
 ## Autoria e Citação
+
 Trabalho desenvolvido na disciplina de Técnicas de Pesquisa e Análise Econômica 2 do curso de Ciências Econômicas da Universidade Federal da Paraíba (UFPB), no âmbito da pesquisa em Economia Aplicada e Reprodutibilidade Acadêmica.
 
-João Henrique B. M. Cavalcanti
+### Desenvolvimento do Software e Pipeline
+* **Concepção, Arquitetura e Código:** João Henrique B. M. Cavalcanti
 
-Joice Alves da Silva
+### Artigo Acadêmico Associado
+* **Autores do Artigo:** João Henrique B. M. Cavalcanti e Joice Alves da Silva
+
+### Como Citar
+Se utilizar esta ferramenta ou pipeline em sua pesquisa, por favor cite:
+
+> Cavalcanti, J. H. B. M. (2026). *Pipeline de Ingestão e Dashboard de Dados Macroeconômicos*. Repositório GitHub.
