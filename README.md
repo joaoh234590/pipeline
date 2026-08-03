@@ -99,9 +99,4 @@ Trabalho desenvolvido na disciplina de Técnicas de Pesquisa e Análise Econômi
 * **Concepção, Arquitetura e Código:** João Henrique B. M. Cavalcanti
 
 ### Artigo Acadêmico Associado
-* **Autores do Artigo:** João Henrique B. M. Cavalcanti e Joice Alves da Silva
-
-### Como Citar
-Se utilizar esta ferramenta ou pipeline em sua pesquisa, por favor cite:
-
-> Cavalcanti, J. H. B. M. (2026). *Pipeline de Ingestão e Dashboard de Dados Macroeconômicos*. Repositório GitHub.
+* **Autores do Artigo:** João Henrique B. M. Cavalcanti e Joice Alves da Silva.
